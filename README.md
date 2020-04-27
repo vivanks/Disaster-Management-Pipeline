@@ -25,7 +25,3 @@ It has three components in total
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/ (Tip: after executing step 1 and 2)
-
-<h3>Author</h3>
-<a href = "https://github.com/qasim1020">GitHub</a><br>
-<a href = "https://www.linkedin.com/in/qasim-hassan-108725180/">LinkedIn</a>
